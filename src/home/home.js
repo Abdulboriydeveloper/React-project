@@ -36,7 +36,7 @@ const Home = () =>{
                       <img src={imag1} className="d-block w-100" alt="..."/>
                        <div class="carousel-caption">
                            <h1 className="home_1_fura_txt">
-                                   Eng zamonaviy TRANSPORTLAR
+                                   Eng zamonaviy Transportlar
                             </h1>
                       </div>
                     </div>

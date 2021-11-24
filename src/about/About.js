@@ -23,6 +23,7 @@ const About = ()=>{
                     </div>
                 </div>
                 {/* about__header end */}
+                
                 {/* start about__main */}
                 <div className="about__main">
                     {/* start main_info */}

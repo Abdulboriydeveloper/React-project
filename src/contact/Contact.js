@@ -84,9 +84,6 @@ const  [contact, setContact] = useState({
                     <option value="2" >Tashqi</option>
                    
                   </select>
-
-                
-
                   
                     <div class="form-floating">
                       <textarea class="form-control message-box" 
